@@ -1,12 +1,5 @@
 [
   {
-    "id": 1,
-    "titulo": "Bolo de Chocolate",
-    "descricao": "Bolo fofinho com cobertura de brigadeiro",
-    "tempo": "45 min",
-    "foto": null
-  },
-  {
     "id": 2,
     "titulo": "Pao de Queijo",
     "descricao": "Receita mineira tradicional com polvilho",
